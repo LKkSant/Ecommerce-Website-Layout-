@@ -1,5 +1,5 @@
 import { ArrowRight } from "lucide-react";
-import KitGamer from "../assets/kitGamer.png";
+import KitGamer from "../assets/KitGamer.png";
 
 export default function PromoBanner() {
   return (
