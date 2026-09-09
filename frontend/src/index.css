@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+button {
+    pointer-events: auto;
+}
+
+cursor-pointer {
+    cursor: pointer;
+}
+
