@@ -1,5 +1,5 @@
 import { ArrowRight, ShoppingBag } from "lucide-react";
-import kit from "../assets/kit.png";
+import kit from "../assets/Kit.png";
 
 export default function Hero() {
   return (
