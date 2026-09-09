@@ -1,4 +1,4 @@
-import ProductCard from "./ProductCard";
+import ProductCard from "./Productcard";
 import { products } from "../data/products";
 import { ArrowRight } from "lucide-react";
 
