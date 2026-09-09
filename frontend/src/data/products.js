@@ -1,4 +1,4 @@
-import iphoneImage from "../assets/iphone16.png";
+import iphoneImage from "../assets/Iphone16.png";
 import ps5Image from "../assets/ps5.jpg";
 
 export const products = [  
